@@ -92,23 +92,17 @@ void loop()
 }
 ```
 
-
-
-
-
-
-
-
-
- 
- 
- 
-
-
-
 ## OUTPUT OF SIMULATION :
 
-## BEFORE SIMULATION :
+### BEFORE SIMULATION :
+![Screenshot 2024-02-16 155251](https://github.com/tsanjaithirumal/EXP-01-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119393916/d1ade48e-9965-4ebc-bddb-7af93e4542df)
+
+
+### AFTER SIMULATION:
+![Screenshot 2024-02-16 155311](https://github.com/tsanjaithirumal/EXP-01-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119393916/03aa15b7-88fc-40ca-a901-ce16922c8c4f)
+## SEMANTIC DIAGRAM:
+![EXP-1 212222040145 T SANJAI_page-0001](https://github.com/tsanjaithirumal/EXP-01-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119393916/f84939e0-4075-4111-8653-941e6a52c772)
+
 
 
 [My image](username.github.com/repository/img/image.jpg)
